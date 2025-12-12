@@ -12,3 +12,4 @@ C:\Users\cclip\RiderProjects\AoC_2025\Day_1\obj\Debug\net8.0\refint\Day_1.dll
 C:\Users\cclip\RiderProjects\AoC_2025\Day_1\obj\Debug\net8.0\Day_1.pdb
 C:\Users\cclip\RiderProjects\AoC_2025\Day_1\obj\Debug\net8.0\Day_1.genruntimeconfig.cache
 C:\Users\cclip\RiderProjects\AoC_2025\Day_1\obj\Debug\net8.0\ref\Day_1.dll
+C:\Users\cclip\RiderProjects\AoC_2025\Day_1\obj\Debug\net8.0\Day_1.sourcelink.json
